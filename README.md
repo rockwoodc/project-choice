@@ -21,7 +21,7 @@ Project Choice is a single page React Application that provides current informat
 
 With 3 non-personally-identifiable pieces of information (that we don’t collect or store), we’re able to give people seeking abortions the information most relevant to their individual circumstances. Our goal is to make it as easy as possible for people to find the information and resources that apply to them, without having to sift through a lot of noise or, worse, misinformation and stigma from anti-abortion organizations.
 
-A fully functional version is available [here](https://project-choice.herokuapp.com/)
+A fully functional version is available [here](https://project-choice.herokuapp.com/)https://project-choice.vercel.app/
 
 ## Contents
 
